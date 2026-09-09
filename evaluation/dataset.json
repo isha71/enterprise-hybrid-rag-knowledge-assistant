@@ -1,0 +1,218 @@
+[
+  {
+    "id": "q1",
+    "question": "What is the maternity leave duration for female employees?",
+    "relevant_sources": [
+      {
+        "document_name": "employee_handbook.pdf",
+        "page_number": 6,
+        "text_contains": "16 weeks of paid maternity leave"
+      }
+    ],
+    "category": "semantic"
+  },
+  {
+    "id": "q2",
+    "question": "How many days of paid time off do new employees receive per year?",
+    "relevant_sources": [
+      {
+        "document_name": "employee_handbook.pdf",
+        "page_number": 3,
+        "text_contains": "15 days of paid time off"
+      }
+    ],
+    "category": "semantic"
+  },
+  {
+    "id": "q3",
+    "question": "What is the refund policy for enterprise subscriptions?",
+    "relevant_sources": [
+      {
+        "document_name": "product_manual.pdf",
+        "page_number": 8,
+        "text_contains": "Refund Policy for Enterprise Subscriptions"
+      }
+    ],
+    "category": "semantic"
+  },
+  {
+    "id": "q4",
+    "question": "Describe the onboarding process for new hires",
+    "relevant_sources": [
+      {
+        "document_name": "employee_handbook.pdf",
+        "page_number": 2,
+        "text_contains": "Onboarding Process for New Hires"
+      }
+    ],
+    "category": "paraphrase"
+  },
+  {
+    "id": "q5",
+    "question": "What code identifies the employee travel reimbursement policy?",
+    "relevant_sources": [
+      {
+        "document_name": "employee_handbook.pdf",
+        "page_number": 5,
+        "text_contains": "HR-401"
+      }
+    ],
+    "category": "identifier"
+  },
+  {
+    "id": "q6",
+    "question": "What are the minimum system requirements for the XR-7000?",
+    "relevant_sources": [
+      {
+        "document_name": "product_manual.pdf",
+        "page_number": 2,
+        "text_contains": "Minimum Hardware Requirements"
+      }
+    ],
+    "category": "identifier"
+  },
+  {
+    "id": "q7",
+    "question": "Explain the company's work from home guidelines",
+    "relevant_sources": [
+      {
+        "document_name": "employee_handbook.pdf",
+        "page_number": 4,
+        "text_contains": "Remote Work and Work From Home Policy"
+      }
+    ],
+    "category": "paraphrase"
+  },
+  {
+    "id": "q8",
+    "question": "What does the SLA guarantee for uptime percentage?",
+    "relevant_sources": [
+      {
+        "document_name": "product_manual.pdf",
+        "page_number": 7,
+        "text_contains": "99.9% uptime SLA"
+      }
+    ],
+    "category": "technical_term"
+  },
+  {
+    "id": "q9",
+    "question": "Who should I contact for IT support issues?",
+    "relevant_sources": [
+      {
+        "document_name": "employee_handbook.pdf",
+        "page_number": 7,
+        "text_contains": "IT Help Desk"
+      }
+    ],
+    "category": "semantic"
+  },
+  {
+    "id": "q10",
+    "question": "How long are financial records retained?",
+    "relevant_sources": [
+      {
+        "document_name": "employee_handbook.pdf",
+        "page_number": 8,
+        "text_contains": "Financial records: retained for 10 years"
+      }
+    ],
+    "category": "semantic"
+  },
+  {
+    "id": "q11",
+    "question": "How do I generate API authentication tokens?",
+    "relevant_sources": [
+      {
+        "document_name": "product_manual.pdf",
+        "page_number": 4,
+        "text_contains": "API Authentication Tokens"
+      }
+    ],
+    "category": "technical_term"
+  },
+  {
+    "id": "q12",
+    "question": "What is error code E104?",
+    "relevant_sources": [
+      {
+        "document_name": "product_manual.pdf",
+        "page_number": 5,
+        "text_contains": "E104"
+      }
+    ],
+    "category": "identifier"
+  },
+  {
+    "id": "q13",
+    "question": "Tell me about the annual performance review cycle",
+    "relevant_sources": [
+      {
+        "document_name": "employee_handbook.pdf",
+        "page_number": 8,
+        "text_contains": "Annual Performance Reviews"
+      }
+    ],
+    "category": "paraphrase"
+  },
+  {
+    "id": "q14",
+    "question": "What are the password complexity requirements?",
+    "relevant_sources": [
+      {
+        "document_name": "employee_handbook.pdf",
+        "page_number": 7,
+        "text_contains": "Minimum 12 characters"
+      }
+    ],
+    "category": "keyword"
+  },
+  {
+    "id": "q15",
+    "question": "What is the warranty duration for the XR-7000 hardware appliance?",
+    "relevant_sources": [
+      {
+        "document_name": "product_manual.pdf",
+        "page_number": 7,
+        "text_contains": "3-year limited warranty"
+      }
+    ],
+    "category": "semantic"
+  },
+  {
+    "id": "q16",
+    "question": "What is the procedure to reset the platform to factory defaults?",
+    "relevant_sources": [
+      {
+        "document_name": "product_manual.pdf",
+        "page_number": 5,
+        "text_contains": "nexusctl reset --factory"
+      }
+    ],
+    "category": "keyword"
+  },
+  {
+    "id": "q17",
+    "question": "How long is the probationary period for new employees?",
+    "relevant_sources": [
+      {
+        "document_name": "employee_handbook.pdf",
+        "page_number": 2,
+        "text_contains": "90-day probationary period"
+      }
+    ],
+    "category": "semantic"
+  },
+  {
+    "id": "q18",
+    "question": "What operating systems are supported by the XR-7000?",
+    "relevant_sources": [
+      {
+        "document_name": "product_manual.pdf",
+        "page_number": 2,
+        "text_contains": "Supported Operating Systems"
+      }
+    ],
+    "category": "technical_term"
+  }
+]

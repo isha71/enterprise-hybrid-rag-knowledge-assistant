@@ -1,0 +1,509 @@
+[
+  {
+    "strategy": "vector",
+    "hit_rate_at_5": 1.0,
+    "mrr": 0.8444,
+    "details": [
+      {
+        "id": "q1",
+        "question": "What is the maternity leave duration for female employees?",
+        "category": "semantic",
+        "hit": 1.0,
+        "mrr": 1.0,
+        "top_result": "employee_handbook.pdf",
+        "top_page": 6
+      },
+      {
+        "id": "q2",
+        "question": "How many days of paid time off do new employees receive per year?",
+        "category": "semantic",
+        "hit": 1.0,
+        "mrr": 1.0,
+        "top_result": "employee_handbook.pdf",
+        "top_page": 3
+      },
+      {
+        "id": "q3",
+        "question": "What is the refund policy for enterprise subscriptions?",
+        "category": "semantic",
+        "hit": 1.0,
+        "mrr": 1.0,
+        "top_result": "product_manual.pdf",
+        "top_page": 8
+      },
+      {
+        "id": "q4",
+        "question": "Describe the onboarding process for new hires",
+        "category": "paraphrase",
+        "hit": 1.0,
+        "mrr": 1.0,
+        "top_result": "employee_handbook.pdf",
+        "top_page": 2
+      },
+      {
+        "id": "q5",
+        "question": "What code identifies the employee travel reimbursement policy?",
+        "category": "identifier",
+        "hit": 1.0,
+        "mrr": 1.0,
+        "top_result": "employee_handbook.pdf",
+        "top_page": 5
+      },
+      {
+        "id": "q6",
+        "question": "What are the minimum system requirements for the XR-7000?",
+        "category": "identifier",
+        "hit": 1.0,
+        "mrr": 0.5,
+        "top_result": "product_manual.pdf",
+        "top_page": 6
+      },
+      {
+        "id": "q7",
+        "question": "Explain the company's work from home guidelines",
+        "category": "paraphrase",
+        "hit": 1.0,
+        "mrr": 0.5,
+        "top_result": "employee_handbook.pdf",
+        "top_page": 4
+      },
+      {
+        "id": "q8",
+        "question": "What does the SLA guarantee for uptime percentage?",
+        "category": "technical_term",
+        "hit": 1.0,
+        "mrr": 1.0,
+        "top_result": "product_manual.pdf",
+        "top_page": 7
+      },
+      {
+        "id": "q9",
+        "question": "Who should I contact for IT support issues?",
+        "category": "semantic",
+        "hit": 1.0,
+        "mrr": 0.5,
+        "top_result": "employee_handbook.pdf",
+        "top_page": 7
+      },
+      {
+        "id": "q10",
+        "question": "How long are financial records retained?",
+        "category": "semantic",
+        "hit": 1.0,
+        "mrr": 1.0,
+        "top_result": "employee_handbook.pdf",
+        "top_page": 8
+      },
+      {
+        "id": "q11",
+        "question": "How do I generate API authentication tokens?",
+        "category": "technical_term",
+        "hit": 1.0,
+        "mrr": 1.0,
+        "top_result": "product_manual.pdf",
+        "top_page": 4
+      },
+      {
+        "id": "q12",
+        "question": "What is error code E104?",
+        "category": "identifier",
+        "hit": 1.0,
+        "mrr": 0.5,
+        "top_result": "product_manual.pdf",
+        "top_page": 5
+      },
+      {
+        "id": "q13",
+        "question": "Tell me about the annual performance review cycle",
+        "category": "paraphrase",
+        "hit": 1.0,
+        "mrr": 1.0,
+        "top_result": "employee_handbook.pdf",
+        "top_page": 8
+      },
+      {
+        "id": "q14",
+        "question": "What are the password complexity requirements?",
+        "category": "keyword",
+        "hit": 1.0,
+        "mrr": 1.0,
+        "top_result": "employee_handbook.pdf",
+        "top_page": 7
+      },
+      {
+        "id": "q15",
+        "question": "What is the warranty duration for the XR-7000 hardware appliance?",
+        "category": "semantic",
+        "hit": 1.0,
+        "mrr": 1.0,
+        "top_result": "product_manual.pdf",
+        "top_page": 7
+      },
+      {
+        "id": "q16",
+        "question": "What is the procedure to reset the platform to factory defaults?",
+        "category": "keyword",
+        "hit": 1.0,
+        "mrr": 1.0,
+        "top_result": "product_manual.pdf",
+        "top_page": 5
+      },
+      {
+        "id": "q17",
+        "question": "How long is the probationary period for new employees?",
+        "category": "semantic",
+        "hit": 1.0,
+        "mrr": 1.0,
+        "top_result": "employee_handbook.pdf",
+        "top_page": 2
+      },
+      {
+        "id": "q18",
+        "question": "What operating systems are supported by the XR-7000?",
+        "category": "technical_term",
+        "hit": 1.0,
+        "mrr": 0.2,
+        "top_result": "product_manual.pdf",
+        "top_page": 1
+      }
+    ]
+  },
+  {
+    "strategy": "hybrid",
+    "hit_rate_at_5": 1.0,
+    "mrr": 0.8796,
+    "details": [
+      {
+        "id": "q1",
+        "question": "What is the maternity leave duration for female employees?",
+        "category": "semantic",
+        "hit": 1.0,
+        "mrr": 1.0,
+        "top_result": "employee_handbook.pdf",
+        "top_page": 6
+      },
+      {
+        "id": "q2",
+        "question": "How many days of paid time off do new employees receive per year?",
+        "category": "semantic",
+        "hit": 1.0,
+        "mrr": 1.0,
+        "top_result": "employee_handbook.pdf",
+        "top_page": 3
+      },
+      {
+        "id": "q3",
+        "question": "What is the refund policy for enterprise subscriptions?",
+        "category": "semantic",
+        "hit": 1.0,
+        "mrr": 1.0,
+        "top_result": "product_manual.pdf",
+        "top_page": 8
+      },
+      {
+        "id": "q4",
+        "question": "Describe the onboarding process for new hires",
+        "category": "paraphrase",
+        "hit": 1.0,
+        "mrr": 1.0,
+        "top_result": "employee_handbook.pdf",
+        "top_page": 2
+      },
+      {
+        "id": "q5",
+        "question": "What code identifies the employee travel reimbursement policy?",
+        "category": "identifier",
+        "hit": 1.0,
+        "mrr": 1.0,
+        "top_result": "employee_handbook.pdf",
+        "top_page": 5
+      },
+      {
+        "id": "q6",
+        "question": "What are the minimum system requirements for the XR-7000?",
+        "category": "identifier",
+        "hit": 1.0,
+        "mrr": 0.5,
+        "top_result": "product_manual.pdf",
+        "top_page": 6
+      },
+      {
+        "id": "q7",
+        "question": "Explain the company's work from home guidelines",
+        "category": "paraphrase",
+        "hit": 1.0,
+        "mrr": 0.5,
+        "top_result": "employee_handbook.pdf",
+        "top_page": 4
+      },
+      {
+        "id": "q8",
+        "question": "What does the SLA guarantee for uptime percentage?",
+        "category": "technical_term",
+        "hit": 1.0,
+        "mrr": 1.0,
+        "top_result": "product_manual.pdf",
+        "top_page": 7
+      },
+      {
+        "id": "q9",
+        "question": "Who should I contact for IT support issues?",
+        "category": "semantic",
+        "hit": 1.0,
+        "mrr": 1.0,
+        "top_result": "employee_handbook.pdf",
+        "top_page": 7
+      },
+      {
+        "id": "q10",
+        "question": "How long are financial records retained?",
+        "category": "semantic",
+        "hit": 1.0,
+        "mrr": 1.0,
+        "top_result": "employee_handbook.pdf",
+        "top_page": 8
+      },
+      {
+        "id": "q11",
+        "question": "How do I generate API authentication tokens?",
+        "category": "technical_term",
+        "hit": 1.0,
+        "mrr": 1.0,
+        "top_result": "product_manual.pdf",
+        "top_page": 4
+      },
+      {
+        "id": "q12",
+        "question": "What is error code E104?",
+        "category": "identifier",
+        "hit": 1.0,
+        "mrr": 0.5,
+        "top_result": "product_manual.pdf",
+        "top_page": 5
+      },
+      {
+        "id": "q13",
+        "question": "Tell me about the annual performance review cycle",
+        "category": "paraphrase",
+        "hit": 1.0,
+        "mrr": 1.0,
+        "top_result": "employee_handbook.pdf",
+        "top_page": 8
+      },
+      {
+        "id": "q14",
+        "question": "What are the password complexity requirements?",
+        "category": "keyword",
+        "hit": 1.0,
+        "mrr": 1.0,
+        "top_result": "employee_handbook.pdf",
+        "top_page": 7
+      },
+      {
+        "id": "q15",
+        "question": "What is the warranty duration for the XR-7000 hardware appliance?",
+        "category": "semantic",
+        "hit": 1.0,
+        "mrr": 1.0,
+        "top_result": "product_manual.pdf",
+        "top_page": 7
+      },
+      {
+        "id": "q16",
+        "question": "What is the procedure to reset the platform to factory defaults?",
+        "category": "keyword",
+        "hit": 1.0,
+        "mrr": 1.0,
+        "top_result": "product_manual.pdf",
+        "top_page": 5
+      },
+      {
+        "id": "q17",
+        "question": "How long is the probationary period for new employees?",
+        "category": "semantic",
+        "hit": 1.0,
+        "mrr": 1.0,
+        "top_result": "employee_handbook.pdf",
+        "top_page": 2
+      },
+      {
+        "id": "q18",
+        "question": "What operating systems are supported by the XR-7000?",
+        "category": "technical_term",
+        "hit": 1.0,
+        "mrr": 0.3333333333333333,
+        "top_result": "product_manual.pdf",
+        "top_page": 1
+      }
+    ]
+  },
+  {
+    "strategy": "hybrid_rerank",
+    "hit_rate_at_5": 0.9444,
+    "mrr": 0.8889,
+    "details": [
+      {
+        "id": "q1",
+        "question": "What is the maternity leave duration for female employees?",
+        "category": "semantic",
+        "hit": 1.0,
+        "mrr": 1.0,
+        "top_result": "employee_handbook.pdf",
+        "top_page": 6
+      },
+      {
+        "id": "q2",
+        "question": "How many days of paid time off do new employees receive per year?",
+        "category": "semantic",
+        "hit": 1.0,
+        "mrr": 1.0,
+        "top_result": "employee_handbook.pdf",
+        "top_page": 3
+      },
+      {
+        "id": "q3",
+        "question": "What is the refund policy for enterprise subscriptions?",
+        "category": "semantic",
+        "hit": 1.0,
+        "mrr": 1.0,
+        "top_result": "product_manual.pdf",
+        "top_page": 8
+      },
+      {
+        "id": "q4",
+        "question": "Describe the onboarding process for new hires",
+        "category": "paraphrase",
+        "hit": 1.0,
+        "mrr": 1.0,
+        "top_result": "employee_handbook.pdf",
+        "top_page": 2
+      },
+      {
+        "id": "q5",
+        "question": "What code identifies the employee travel reimbursement policy?",
+        "category": "identifier",
+        "hit": 1.0,
+        "mrr": 1.0,
+        "top_result": "employee_handbook.pdf",
+        "top_page": 5
+      },
+      {
+        "id": "q6",
+        "question": "What are the minimum system requirements for the XR-7000?",
+        "category": "identifier",
+        "hit": 1.0,
+        "mrr": 0.5,
+        "top_result": "product_manual.pdf",
+        "top_page": 6
+      },
+      {
+        "id": "q7",
+        "question": "Explain the company's work from home guidelines",
+        "category": "paraphrase",
+        "hit": 1.0,
+        "mrr": 1.0,
+        "top_result": "employee_handbook.pdf",
+        "top_page": 4
+      },
+      {
+        "id": "q8",
+        "question": "What does the SLA guarantee for uptime percentage?",
+        "category": "technical_term",
+        "hit": 1.0,
+        "mrr": 1.0,
+        "top_result": "product_manual.pdf",
+        "top_page": 7
+      },
+      {
+        "id": "q9",
+        "question": "Who should I contact for IT support issues?",
+        "category": "semantic",
+        "hit": 1.0,
+        "mrr": 1.0,
+        "top_result": "employee_handbook.pdf",
+        "top_page": 7
+      },
+      {
+        "id": "q10",
+        "question": "How long are financial records retained?",
+        "category": "semantic",
+        "hit": 1.0,
+        "mrr": 1.0,
+        "top_result": "employee_handbook.pdf",
+        "top_page": 8
+      },
+      {
+        "id": "q11",
+        "question": "How do I generate API authentication tokens?",
+        "category": "technical_term",
+        "hit": 1.0,
+        "mrr": 1.0,
+        "top_result": "product_manual.pdf",
+        "top_page": 4
+      },
+      {
+        "id": "q12",
+        "question": "What is error code E104?",
+        "category": "identifier",
+        "hit": 1.0,
+        "mrr": 0.5,
+        "top_result": "product_manual.pdf",
+        "top_page": 5
+      },
+      {
+        "id": "q13",
+        "question": "Tell me about the annual performance review cycle",
+        "category": "paraphrase",
+        "hit": 1.0,
+        "mrr": 1.0,
+        "top_result": "employee_handbook.pdf",
+        "top_page": 8
+      },
+      {
+        "id": "q14",
+        "question": "What are the password complexity requirements?",
+        "category": "keyword",
+        "hit": 1.0,
+        "mrr": 1.0,
+        "top_result": "employee_handbook.pdf",
+        "top_page": 7
+      },
+      {
+        "id": "q15",
+        "question": "What is the warranty duration for the XR-7000 hardware appliance?",
+        "category": "semantic",
+        "hit": 1.0,
+        "mrr": 1.0,
+        "top_result": "product_manual.pdf",
+        "top_page": 7
+      },
+      {
+        "id": "q16",
+        "question": "What is the procedure to reset the platform to factory defaults?",
+        "category": "keyword",
+        "hit": 1.0,
+        "mrr": 1.0,
+        "top_result": "product_manual.pdf",
+        "top_page": 5
+      },
+      {
+        "id": "q17",
+        "question": "How long is the probationary period for new employees?",
+        "category": "semantic",
+        "hit": 1.0,
+        "mrr": 1.0,
+        "top_result": "employee_handbook.pdf",
+        "top_page": 2
+      },
+      {
+        "id": "q18",
+        "question": "What operating systems are supported by the XR-7000?",
+        "category": "technical_term",
+        "hit": 0.0,
+        "mrr": 0.0,
+        "top_result": "product_manual.pdf",
+        "top_page": 1
+      }
+    ]
+  }
+]
